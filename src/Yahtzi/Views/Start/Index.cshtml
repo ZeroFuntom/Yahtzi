@@ -1,10 +1,7 @@
-﻿@{
-    ViewBag.Title = "Home Page";
-}
-
+﻿
 <h1>Yatzy</h1>
 
 
-<button type="button" class="btn btn-outline-primary btn-lg">Play</button><br />
-<button type="button" class="btn btn-outline-primary btn-lg">Highscore</button><br />
-<button type="button" class="btn btn-outline-primary btn-lg">Quit</button><br />
+<button type="button">@Html.ActionLink("Play", "Index", "Game")</button><br />
+<button type="button">@Html.ActionLink("Highscore", "Index", "Highscore")</button><br />
+<button type="button" onclick="self.close();">Quit</button><br />

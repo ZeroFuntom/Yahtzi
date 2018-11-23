@@ -1,7 +1,17 @@
 ﻿
-@{
-    ViewBag.Title = "Index";
-}
+<h2>Highscore</h2>
 
-<h2>Index</h2>
+<table border="1">
+    <tr>
+        <th>Place</th>
+        <th>Name</th>
+        <th>Score</th>
+    </tr>
+    <tr>
+        <th>PlaceNumber</th>
+        <th>NamePlayer</th>
+        <th>ScorePlayer</th>
+    </tr>
+</table>
 
+<button type="button">@Html.ActionLink("Cancel", "Index", "Start")</button>

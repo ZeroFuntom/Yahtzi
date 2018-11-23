@@ -36,7 +36,7 @@ C:\Git\Yahtzi\src\Yahtzi\bin\Microsoft.AI.DependencyCollector.xml
 C:\Git\Yahtzi\src\Yahtzi\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Git\Yahtzi\src\Yahtzi\bin\Microsoft.AI.WindowsServer.xml
 C:\Git\Yahtzi\src\Yahtzi\bin\Microsoft.AI.Web.xml
-C:\Git\Yahtzi\src\Yahtzi\obj\Debug\Yahtzi.Web.csprojResolveAssemblyReference.cache
 C:\Git\Yahtzi\src\Yahtzi\obj\Debug\Yahtzi.Web.csproj.CoreCompileInputs.cache
 C:\Git\Yahtzi\src\Yahtzi\obj\Debug\Yahtzi.dll
 C:\Git\Yahtzi\src\Yahtzi\obj\Debug\Yahtzi.pdb
+C:\Git\Yahtzi\src\Yahtzi\obj\Debug\Yahtzi.Web.csprojResolveAssemblyReference.cache
