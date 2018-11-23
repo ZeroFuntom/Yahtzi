@@ -29,6 +29,18 @@
     float: right;
 }
 
+.boxSm {
+    width: 60px;
+    height: 60px;
+}
+
+.boxDice {
+    width: 60px;
+    height: 60px;
+    border-style: solid;
+    display: inline-block;
+}
+
 article,
 aside,
 details,
@@ -40,7 +52,7 @@ main,
 nav,
 section,
 summary {
-  display: block;
+    display: block;
 }
 
 .footer {
