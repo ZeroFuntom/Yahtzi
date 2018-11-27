@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzi.Web", "Yahtzi\Yahtzi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzi.Tests", "Yahtzi.Tests\Yahtzi.Tests.csproj", "{777C712D-4D89-4709-A45D-3B773ABB5F03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzy.Domain", "Yahtzy.Domain\Yahtzy.Domain.csproj", "{28D7E280-69DE-4F26-9A98-EFF206191F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{777C712D-4D89-4709-A45D-3B773ABB5F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{777C712D-4D89-4709-A45D-3B773ABB5F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{777C712D-4D89-4709-A45D-3B773ABB5F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D7E280-69DE-4F26-9A98-EFF206191F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D7E280-69DE-4F26-9A98-EFF206191F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D7E280-69DE-4F26-9A98-EFF206191F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D7E280-69DE-4F26-9A98-EFF206191F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
